@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miketee82
 - 👀 I’m interested in learning new Technology and Open Source Systems
 - 🌱 I’m currently learning Mailchimp API and Stripe API
-- 💞️ I’m looking to collaborate on numerous small system projects
+- 💞️ I’m looking to collaborate on numerous small IT Projects
 - 📫 How to reach me @ north_dragonsg@yahoo.com.sg
 
 <!---
