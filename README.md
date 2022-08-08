@@ -11,6 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 1) signup-subject-mailchimp.php
 Mailchimp Sign Up using GET in PHP Script and Return JSON
-
 2) generate-bookwriteup-file.pl
 Convert the current bookwriteup into a new format and packed into a submission zipped file
